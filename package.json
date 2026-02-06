@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.28.4"
+  }
+}
